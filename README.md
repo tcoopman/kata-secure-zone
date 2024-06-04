@@ -47,7 +47,14 @@ Design a the secure portal yourself, you have these primitives:
 
 Turn this into a modelling kata.
 
-Design examples and counter examples, 
+Design examples and counter examples, do some event storming,...
+
+It's basically up to you how you want to model it, but be rigorous. Make sure
+you really understand the implications.
+
+If you want to design an aggregate, use the aggregate modelling tool
+
+![Aggregate Modelling Tool](/pictures/aggregate_modelling_tool.png)
 
 ## Option 2: Implementation
 
